@@ -1,0 +1,205 @@
+Change Component Description : Designator=C1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C7 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C8 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP7 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP8 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP9 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP10 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP11 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP12 Old Description=C?m New Description=C?m
+Change Component Description : Designator=KF1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=KF2 Old Description=C?m New Description=C?m
+Change component parameters: Designator = "C1"; Footprint = "tu hoa 16mm"; UniqueID = "\REDXIKLY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 2200uF 35V 16x25MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "tu hoa 16mm"; UniqueID = "\DMXKODJN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 2200uF 35V 16x25MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "tu hoa 16mm"; UniqueID = "\RVTMMOCJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 2200uF 35V 16x25MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "tu hoa 16mm"; UniqueID = "\MPOAFUVY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 2200uF 35V 16x25MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "tu hoa 16mm"; UniqueID = "\XWBUNRUL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 2200uF 35V 16x25MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "tu hoa 16mm"; UniqueID = "\MMYTOUQU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 2200uF 35V 16x25MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "tu hoa 16mm"; UniqueID = "\VPBNFYVM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 2200uF 35V 16x25MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "tu hoa 16mm"; UniqueID = "\RWXNGAQM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 2200uF 35V 16x25MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP1"; Footprint = "JP 2x20 CT"; UniqueID = "\BMYNJIAX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP2"; Footprint = "JP 2x6 CT"; UniqueID = "\OHWMAWGD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP3"; Footprint = "JP 2x20 CT"; UniqueID = "\WJTHGDCA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP4"; Footprint = "JP 2x6 CT"; UniqueID = "\RPXPLOOA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP5"; Footprint = "JP 2x20 CT"; UniqueID = "\IYFOFVGS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP6"; Footprint = "JP 2x6 CT"; UniqueID = "\WTDTQQDM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP7"; Footprint = "JP 2x20 CT"; UniqueID = "\JYSBAMFL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP8"; Footprint = "JP 2x6 CT"; UniqueID = "\XQMOFGGI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP9"; Footprint = "JP 2x20 CT"; UniqueID = "\WFVUTTHP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP10"; Footprint = "JP 2x6 CT"; UniqueID = "\IUQVIODF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP11"; Footprint = "JP 2x20 CT"; UniqueID = "\FCSLLLHD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP12"; Footprint = "JP 2x6 CT"; UniqueID = "\RXVEULHQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "KF1"; Footprint = "CON 2 KF7.62"; UniqueID = "\IBBXBQHE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH002053"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF7.62-2P 7.62MM (Ðen Th?ng)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "KF2"; Footprint = "CON 2 KF7.62"; UniqueID = "\HYGRVFDF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH002053"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF7.62-2P 7.62MM (Ðen Th?ng)"; VariantName = "[No Variations]"
+Added Component: Designator=VIT5(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT6(VIT)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Terminal Member=Component VIT5 1
+Added Member To Class: ClassName=Terminal Member=Component VIT6 1
+Added Room: Name=Terminal

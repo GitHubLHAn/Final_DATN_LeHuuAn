@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C39-2
+Removed Pin From Net: NetName=GND Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=IC10-1
+Removed Pin From Net: NetName=PWM_TIM1_CH2H Pin=IC10-2
+Removed Pin From Net: NetName=INH_2 Pin=IC10-3
+Removed Pin From Net: NetName=GND Pin=IC10-5
+Removed Pin From Net: NetName=GND Pin=IC11-1
+Removed Pin From Net: NetName=PWM_TIM1_CH1N Pin=IC11-2
+Removed Pin From Net: NetName=INH_1 Pin=IC11-3
+Removed Pin From Net: NetName=GND Pin=IC11-5
+Removed Pin From Net: NetName=GND Pin=IC17-1
+Removed Pin From Net: NetName=PWM_TIM1_CH1H Pin=IC17-2
+Removed Pin From Net: NetName=INH_1 Pin=IC17-3
+Removed Pin From Net: NetName=GND Pin=IC17-5
+Removed Pin From Net: NetName=GND Pin=IC18-1
+Removed Pin From Net: NetName=PWM_TIM1_CH2N Pin=IC18-2
+Removed Pin From Net: NetName=INH_2 Pin=IC18-3
+Removed Pin From Net: NetName=GND Pin=IC18-5
+Removed Pin From Net: NetName=GND Pin=R35-2
+Removed Pin From Net: NetName=GND Pin=R48-2
+Removed Pin From Net: NetName=GND Pin=R49-2
+Removed Pin From Net: NetName=GND Pin=R50-2
+Removed Pin From Net: NetName=GND Pin=R51-2
+Added Component: Designator=R?(tro smd 2512)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 2512 5% 0R 1W"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_iso Pin=C14-2
+Added Pin To Net: NetName=GND_iso Pin=C15-2
+Added Pin To Net: NetName=GND_iso Pin=C16-1
+Added Pin To Net: NetName=GND_iso Pin=C17-1
+Added Pin To Net: NetName=GND_iso Pin=C18-2
+Added Pin To Net: NetName=GND_iso Pin=C27-2
+Added Pin To Net: NetName=GND_iso Pin=C36-2
+Added Pin To Net: NetName=GND_iso Pin=C37-1
+Added Pin To Net: NetName=GND_iso Pin=C39-2
+Added Pin To Net: NetName=GND_iso Pin=C40-1
+Added Pin To Net: NetName=GND_iso Pin=IC10-1
+Added Pin To Net: NetName=GND_iso Pin=IC10-5
+Added Pin To Net: NetName=GND_iso Pin=IC11-1
+Added Pin To Net: NetName=GND_iso Pin=IC11-5
+Added Pin To Net: NetName=GND_iso Pin=IC17-1
+Added Pin To Net: NetName=GND_iso Pin=IC17-5
+Added Pin To Net: NetName=GND_iso Pin=IC18-1
+Added Pin To Net: NetName=GND_iso Pin=IC18-5
+Added Pin To Net: NetName=+3.3Vdc Pin=IC19-1
+Added Pin To Net: NetName=PWM_TIM1_CH1H Pin=IC19-2
+Added Pin To Net: NetName=INH_1 Pin=IC19-3
+Added Pin To Net: NetName=PWM_TIM1_CH1N Pin=IC19-4
+Added Pin To Net: NetName=PWM_TIM1_CH2H Pin=IC19-5
+Added Pin To Net: NetName=INH_2 Pin=IC19-6
+Added Pin To Net: NetName=PWM_TIM1_CH2N Pin=IC19-7
+Added Pin To Net: NetName=GND Pin=IC19-8
+Added Pin To Net: NetName=GND_iso Pin=IC19-9
+Added Pin To Net: NetName=+V_iso Pin=IC19-16
+Added Pin To Net: NetName=GND_iso Pin=R35-2
+Added Pin To Net: NetName=GND_iso Pin=R48-2
+Added Pin To Net: NetName=GND_iso Pin=R49-2
+Added Pin To Net: NetName=GND_iso Pin=R50-2
+Added Pin To Net: NetName=GND_iso Pin=R51-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND_iso Pin=R?-2
+Added Pin To Net: NetName=INH_1S Pin=IC11-3
+Added Pin To Net: NetName=INH_1S Pin=IC17-3
+Added Pin To Net: NetName=INH_1S Pin=IC19-14
+Added Net: Name=INH_1S
+Added Pin To Net: NetName=INH_2S Pin=IC10-3
+Added Pin To Net: NetName=INH_2S Pin=IC18-3
+Added Pin To Net: NetName=INH_2S Pin=IC19-11
+Added Net: Name=INH_2S
+Added Pin To Net: NetName=PWM_1H Pin=IC17-2
+Added Pin To Net: NetName=PWM_1H Pin=IC19-15
+Added Net: Name=PWM_1H
+Added Pin To Net: NetName=PWM_1N Pin=IC11-2
+Added Pin To Net: NetName=PWM_1N Pin=IC19-13
+Added Net: Name=PWM_1N
+Added Pin To Net: NetName=PWM_2H Pin=IC10-2
+Added Pin To Net: NetName=PWM_2H Pin=IC19-12
+Added Net: Name=PWM_2H
+Added Pin To Net: NetName=PWM_2N Pin=IC18-2
+Added Pin To Net: NetName=PWM_2N Pin=IC19-10
+Added Net: Name=PWM_2N
+Added Member To Class: ClassName=MC33886_PowerModule Member=Component R? 0R

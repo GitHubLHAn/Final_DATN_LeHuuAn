@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+3.3Vdc Pin=S1-2
+Removed Member From Class: ClassName=Communication Member=S1
+Added Pin To Net: NetName=+3.3Vdc Pin=R11-1
+Added Pin To Net: NetName=+3.3Vdc Pin=R12-1

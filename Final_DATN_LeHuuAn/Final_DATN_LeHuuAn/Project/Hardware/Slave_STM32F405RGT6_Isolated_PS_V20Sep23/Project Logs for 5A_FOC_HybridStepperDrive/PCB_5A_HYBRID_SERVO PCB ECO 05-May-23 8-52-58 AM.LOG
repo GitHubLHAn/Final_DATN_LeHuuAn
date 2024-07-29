@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=AD1_14_VBUS New Net Name=AD1_15_VBUS
+Change Net Name : Old Net Name=AD1_15_IA New Net Name=AD1_8_IA
+Change Net Name : Old Net Name=AD1_16_IB New Net Name=AD1_9_IB
+Change Net Name : Old Net Name=ADC1_IN10 New Net Name=ADC1_IN5
+Change Net Name : Old Net Name=ADC1_IN11 New Net Name=ADC1_IN6
+Change Net Name : Old Net Name=ADC1_IN12 New Net Name=ADC1_IN7
+Change Net Name : Old Net Name=ADC1_IN13 New Net Name=ADC1_IN14

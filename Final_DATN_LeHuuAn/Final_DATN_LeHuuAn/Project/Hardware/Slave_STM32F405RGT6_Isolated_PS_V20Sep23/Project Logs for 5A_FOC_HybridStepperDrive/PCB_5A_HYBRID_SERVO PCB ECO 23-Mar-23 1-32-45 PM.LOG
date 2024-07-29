@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetAO1_1 Pin=AO1-1
+Removed Member From Class: ClassName=Current_Sense Member=AO1
+Removed Member From Class: ClassName=MCU_STM32L433RCT6 Member=VIT1
+Removed Member From Class: ClassName=MCU_STM32L433RCT6 Member=VIT2
+Change Net Name : Old Net Name=NetAO1_1 New Net Name=NetC7_1

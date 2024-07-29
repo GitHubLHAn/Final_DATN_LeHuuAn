@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=PWM_TIM1_CH1H Pin=IC19-2
+Removed Pin From Net: NetName=PWM_TIM1_CH2H Pin=IC19-4
+Removed Pin From Net: NetName=PWM_TIM1_CH3H Pin=IC19-5
+Removed Pin From Net: NetName=PWM_TIM1_CH4H Pin=IC19-7
+Added Pin To Net: NetName=PWM_TIM1_CH4H Pin=IC19-2
+Added Pin To Net: NetName=PWM_TIM1_CH3H Pin=IC19-4
+Added Pin To Net: NetName=PWM_TIM1_CH2H Pin=IC19-5
+Added Pin To Net: NetName=PWM_TIM1_CH1H Pin=IC19-7
+Change Net Name : Old Net Name=PWM_1H New Net Name=PWM_4H
+Change Net Name : Old Net Name=PWM_2H New Net Name=PWM_3H
+Change Net Name : Old Net Name=PWM_3H New Net Name=PWM_2H
+Change Net Name : Old Net Name=PWM_4H New Net Name=PWM_1H

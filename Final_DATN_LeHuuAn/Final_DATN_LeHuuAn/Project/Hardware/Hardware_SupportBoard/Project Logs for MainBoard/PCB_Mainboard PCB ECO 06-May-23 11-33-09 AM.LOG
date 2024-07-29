@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+VS Pin=JP8-2
+Removed Pin From Net: NetName=GND_iso Pin=JP8-5
+Removed Pin From Net: NetName=GND_iso Pin=JP8-7
+Removed Pin From Net: NetName=GND_iso Pin=JP8-8
+Removed Pin From Net: NetName=GND_iso Pin=JP8-9
+Removed Pin From Net: NetName=+VS Pin=JP8-10
+Removed Pin From Net: NetName=+VS Pin=JP8-11
+Removed Pin From Net: NetName=+VS Pin=JP8-12
+Removed Member From Class: ClassName=Terminal Member=JP8

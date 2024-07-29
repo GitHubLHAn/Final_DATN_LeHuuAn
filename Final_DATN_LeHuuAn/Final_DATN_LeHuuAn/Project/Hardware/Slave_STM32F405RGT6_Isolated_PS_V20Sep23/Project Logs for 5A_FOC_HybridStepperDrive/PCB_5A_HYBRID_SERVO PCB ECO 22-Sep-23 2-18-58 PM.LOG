@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+5Vdc Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C35-2
+Change Component Footprint: Designator=C35 Old Footprint=CN-SMD-0805 New Footprint=tu 0603
+Change Component Comment : Designator=C35 Old Comment=Cap Semi New Comment=1uF
+Change component parameters: Designator = "C35"; Footprint = "tu 0603"; UniqueID = "\GBCXPKHN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004566"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0603 102-1nF 10% 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=+5Vdc Pin=C35-2

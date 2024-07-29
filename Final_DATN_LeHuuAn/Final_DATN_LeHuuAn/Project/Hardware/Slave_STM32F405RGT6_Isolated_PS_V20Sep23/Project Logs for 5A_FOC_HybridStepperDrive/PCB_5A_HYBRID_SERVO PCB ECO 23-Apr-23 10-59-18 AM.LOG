@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+5V_Analog Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C40-2
+Removed Member From Class: ClassName=Current_Sense Member=C40

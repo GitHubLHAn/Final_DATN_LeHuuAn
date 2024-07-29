@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C10 Old Footprint=CM-0805 capacitor New Footprint=tu 0603
+Change Component Comment : Designator=C10 Old Comment=1uF New Comment=5.1pF
+Change component parameters: Designator = "C10"; Footprint = "tu 0603"; UniqueID = "\NNJSMNJM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004572"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0603 5.1P 50V 10%"; VariantName = "[No Variations]"

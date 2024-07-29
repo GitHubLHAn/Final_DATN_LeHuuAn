@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=ADDR_2 Pin=S3-1
+Removed Pin From Net: NetName=ADDR_1 Pin=S3-2
+Removed Pin From Net: NetName=ADDR_0 Pin=S3-3
+Removed Pin From Net: NetName=GND Pin=S3-4
+Change Component Footprint: Designator=S3 Old Footprint=SW-DIP3-1 New Footprint=SW-DIP4
+Change component parameters: Designator = "S3"; Footprint = "SW-DIP4"; UniqueID = "\PVUURKFO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/4181271609xx.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "Dec.2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No."; Value = "418127160904"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pole"; Value = "04"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADDR_2 Pin=S3-2
+Added Pin To Net: NetName=ADDR_1 Pin=S3-3
+Added Pin To Net: NetName=ADDR_0 Pin=S3-4
+Added Pin To Net: NetName=GND Pin=S3-7
+Added Pin To Net: NetName=GND Pin=S3-8
+Added Pin To Net: NetName=ADDR_3 Pin=IC12-57
+Added Pin To Net: NetName=ADDR_3 Pin=S3-1
+Added Net: Name=ADDR_3

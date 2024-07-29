@@ -1,0 +1,69 @@
+Added Component: Designator=JP11(JP 2x20 CT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=JP12(JP 2x6 CT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VCC Pin=JP11-1
+Added Pin To Net: NetName=+VCC Pin=JP11-2
+Added Pin To Net: NetName=GND_iso Pin=JP11-3
+Added Pin To Net: NetName=GND_iso Pin=JP11-4
+Added Pin To Net: NetName=EX_DIR Pin=JP11-5
+Added Pin To Net: NetName=S_LOCK Pin=JP11-6
+Added Pin To Net: NetName=PULSE_CMD Pin=JP11-7
+Added Pin To Net: NetName=DI_0 Pin=JP11-8
+Added Pin To Net: NetName=DI_1 Pin=JP11-9
+Added Pin To Net: NetName=DI_2 Pin=JP11-10
+Added Pin To Net: NetName=DI_3 Pin=JP11-11
+Added Pin To Net: NetName=RS485_A2 Pin=JP11-12
+Added Pin To Net: NetName=RS485_B2 Pin=JP11-13
+Added Pin To Net: NetName=AI_3 Pin=JP11-14
+Added Pin To Net: NetName=AI_4 Pin=JP11-15
+Added Pin To Net: NetName=AI_1 Pin=JP11-16
+Added Pin To Net: NetName=AI_2 Pin=JP11-17
+Added Pin To Net: NetName=M_SCL_ISO Pin=JP11-18
+Added Pin To Net: NetName=M_SDA_ISO Pin=JP11-19
+Added Pin To Net: NetName=GND Pin=JP11-20
+Added Pin To Net: NetName=GND Pin=JP11-21
+Added Pin To Net: NetName=GND Pin=JP11-22
+Added Pin To Net: NetName=GND Pin=JP11-23
+Added Pin To Net: NetName=GND Pin=JP11-24
+Added Pin To Net: NetName=GND Pin=JP11-25
+Added Pin To Net: NetName=GND Pin=JP11-26
+Added Pin To Net: NetName=GND Pin=JP11-27
+Added Pin To Net: NetName=GND Pin=JP11-28
+Added Pin To Net: NetName=GND Pin=JP11-29
+Added Pin To Net: NetName=GND Pin=JP11-30
+Added Pin To Net: NetName=GND Pin=JP11-31
+Added Pin To Net: NetName=GND Pin=JP11-32
+Added Pin To Net: NetName=GND Pin=JP11-33
+Added Pin To Net: NetName=GND Pin=JP11-34
+Added Pin To Net: NetName=GND Pin=JP11-35
+Added Pin To Net: NetName=GND_iso Pin=JP11-37
+Added Pin To Net: NetName=GND_iso Pin=JP11-38
+Added Pin To Net: NetName=+VCC Pin=JP11-39
+Added Pin To Net: NetName=+VCC Pin=JP11-40
+Added Pin To Net: NetName=+VS Pin=JP12-1
+Added Pin To Net: NetName=+VS Pin=JP12-2
+Added Pin To Net: NetName=+VS Pin=JP12-3
+Added Pin To Net: NetName=GND_iso Pin=JP12-4
+Added Pin To Net: NetName=GND_iso Pin=JP12-5
+Added Pin To Net: NetName=GND_iso Pin=JP12-6
+Added Pin To Net: NetName=GND_iso Pin=JP12-7
+Added Pin To Net: NetName=GND_iso Pin=JP12-8
+Added Pin To Net: NetName=GND_iso Pin=JP12-9
+Added Pin To Net: NetName=+VS Pin=JP12-10
+Added Pin To Net: NetName=+VS Pin=JP12-11
+Added Pin To Net: NetName=+VS Pin=JP12-12
+Added Member To Class: ClassName=Terminal Member=Component JP11 JP 2x20 2.54
+Added Member To Class: ClassName=Terminal Member=Component JP12 JP 2x6 2.54

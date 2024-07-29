@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=+VS Pin=JP8-1
+Removed Pin From Net: NetName=+VS Pin=JP8-3
+Removed Pin From Net: NetName=GND_iso Pin=JP8-4
+Removed Pin From Net: NetName=GND_iso Pin=JP8-6
+Added Component: Designator=VIT1(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT2(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT3(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT4(VIT)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJP8_1 Pin=JP8-1
+Added Pin To Net: NetName=NetJP8_1 Pin=JP8-3
+Added Net: Name=NetJP8_1
+Added Pin To Net: NetName=NetJP8_4 Pin=JP8-4
+Added Pin To Net: NetName=NetJP8_4 Pin=JP8-6
+Added Net: Name=NetJP8_4
+Added Member To Class: ClassName=Terminal Member=Component VIT1 1
+Added Member To Class: ClassName=Terminal Member=Component VIT2 1
+Added Member To Class: ClassName=Terminal Member=Component VIT3 1
+Added Member To Class: ClassName=Terminal Member=Component VIT4 1

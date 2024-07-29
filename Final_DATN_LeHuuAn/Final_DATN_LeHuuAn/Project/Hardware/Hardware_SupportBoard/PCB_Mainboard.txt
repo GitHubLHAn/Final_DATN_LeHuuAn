@@ -1,0 +1,16 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MainBoard.PrjPCB|ReportField=ProjectFullPath~D:\HUST\C1B 409\HybridStepServo\Hardware_MainBoard\MainBoard.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [PCB_Mainboard.PcbDoc]|ReportField=TotalQuantity~43|ReportField=ReportTime~12:03:06 PM|ReportField=ReportDate~6/7/2023|ReportField=ReportDateTime~6/7/2023 12:03:06 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~PCB_Mainboard.PcbDoc|ReportField=DataSourceFullPath~D:\HUST\C1B 409\HybridStepServo\Hardware_MainBoard\PCB_Mainboard.PcbDoc
+1|2200uF|C?m|C1, C2, C3, C4, C5, C6, C7, C8|tu hoa 16mm|Tu Hoa 2200uF 35V 16x25|8
+2|Diode SMD|Default Diode|DIO1, DIO2, DIO3|DIO-SMD-106|Diode SMD|3
+3|LED||DO1, DO2|LED-0805-Yellow|LED SMD|2
+4|0154004.DR|Fuse|F1|0154001.DRT|0154004.DR|1
+5|F1A|Fuse|F2|Fuse1|Fuse|1
+6|LTV-357T|Integrated Circuit|IC1|LTV-357T|LTV-357T|1
+7|JP 2x20 2.54|C?m|JP1, JP3, JP5, JP7, JP9, JP11|JP 2x20 CT|JP 2x20 2.54 Cai Thang|6
+8|JP 2x6 2.54|C?m|JP2, JP4, JP6, JP10, JP12, JP?|JP 2x6 CT|JP 2x6 2.54 Cai Thang|6
+9|SLA-24VDC-SL-A|Relay or Contactor|K1|SLA24VDCSLA|SLA-24VDC-SL-A|1
+10|CON 2 KF7.62|C?m|KF1, KF2|CON 2 KF7.62|CON 2 KF7.62|2
+11|BCP54TA|Transistor BJT NPN|Q1|SOT230P700X165-4N|BCP54TA|1
+12|820R|Resistor|R1, R3|RES-SMD-0805|Res-SMD|2
+13|2.2k|Resistor|R2, R4|RES-SMD-0805|Res-SMD|2
+14|=partNo|WS-DITV 2.54 mm small compact THT flat actuator with top tape|S1|SW-DIP1-1|SWDIP1|1
+15|1|Oc Vit|VIT1, VIT2, VIT3, VIT4, VIT5, VIT6|VIT|VIT|6

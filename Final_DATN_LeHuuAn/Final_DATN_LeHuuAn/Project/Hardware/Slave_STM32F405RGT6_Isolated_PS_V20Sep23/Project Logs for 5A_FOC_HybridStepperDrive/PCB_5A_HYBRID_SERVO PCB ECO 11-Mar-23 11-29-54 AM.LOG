@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=W1_PB+ Pin=C36-1
+Removed Pin From Net: NetName=W1_PB- Pin=C36-2
+Removed Pin From Net: NetName=W1_PA+ Pin=C36-3
+Removed Pin From Net: NetName=W1_PA- Pin=C36-4
+Removed Pin From Net: NetName=GND Pin=C36-5
+Removed Pin From Net: NetName=+5Vdc Pin=C36-6
+Removed Pin From Net: NetName=+5Vdc Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Member From Class: ClassName=QEA_Interface Member=C36
+Removed Member From Class: ClassName=QEA_Interface Member=C37

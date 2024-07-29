@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=R?-1
+Removed Pin From Net: NetName=GND_iso Pin=R?-2
+Removed Member From Class: ClassName=MC33886_PowerModule Member=R?
+Added Component: Designator=R52(tro smd 2010)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003430"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 2010 5% R500-0.5R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R52-1
+Added Pin To Net: NetName=GND_iso Pin=R52-2
+Added Member To Class: ClassName=MC33886_PowerModule Member=Component R52 0R

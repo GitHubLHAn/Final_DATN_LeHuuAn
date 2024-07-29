@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=MB2 Pin=H7-1
+Removed Pin From Net: NetName=MA2 Pin=H7-2
+Removed Pin From Net: NetName=MB1 Pin=H7-3
+Removed Pin From Net: NetName=MA1 Pin=H7-4
+Removed Member From Class: ClassName=Terminal Member=H7
+Added Component: Designator=C35(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=P2(691305340004)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/691305340004.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "691305340004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.81 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5Vdc Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=MA1 Pin=P2-1
+Added Pin To Net: NetName=MB1 Pin=P2-2
+Added Pin To Net: NetName=MA2 Pin=P2-3
+Added Pin To Net: NetName=MB2 Pin=P2-4
+Added Member To Class: ClassName=QEA_Interface Member=Component C35 Cap Semi
+Added Member To Class: ClassName=Terminal Member=Component P2 691305340004

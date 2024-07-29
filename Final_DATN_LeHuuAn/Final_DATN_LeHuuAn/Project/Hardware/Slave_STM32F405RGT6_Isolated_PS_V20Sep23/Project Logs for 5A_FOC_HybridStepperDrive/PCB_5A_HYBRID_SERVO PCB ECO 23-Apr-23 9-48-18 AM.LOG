@@ -1,0 +1,123 @@
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=+5Vdc Pin=C13-2
+Removed Pin From Net: NetName=GND_P Pin=IC7-3
+Removed Pin From Net: NetName=GND Pin=IC7-4
+Removed Pin From Net: NetName=LPTIM1_T_PULSE_Cmd Pin=IC7-5
+Removed Pin From Net: NetName=+5Vdc Pin=IC7-6
+Removed Pin From Net: NetName=GND_P Pin=IC8-2
+Removed Pin From Net: NetName=GND Pin=IC8-3
+Removed Pin From Net: NetName=DIRECTION Pin=IC8-4
+Removed Pin From Net: NetName=GND_P Pin=IC9-2
+Removed Pin From Net: NetName=GND Pin=IC9-3
+Removed Pin From Net: NetName=SERVO_LOCK Pin=IC9-4
+Removed Pin From Net: NetName=GND_P Pin=JP1-5
+Removed Pin From Net: NetName=S_LOCK Pin=JP1-6
+Removed Pin From Net: NetName=EX_DIR Pin=JP1-7
+Removed Pin From Net: NetName=PULSE_CMD Pin=JP1-8
+Removed Pin From Net: NetName=GND_P Pin=JP1-9
+Removed Pin From Net: NetName=RS485_A2 Pin=JP1-11
+Removed Pin From Net: NetName=RS485_B2 Pin=JP1-12
+Removed Pin From Net: NetName=GND Pin=JP1-13
+Removed Pin From Net: NetName=PULSE_CMD Pin=R30-1
+Removed Pin From Net: NetName=EX_DIR Pin=R32-2
+Removed Pin From Net: NetName=S_LOCK Pin=R33-2
+Removed Member From Class: ClassName=DI_DO_AI_AO Member=IC8
+Removed Member From Class: ClassName=DI_DO_AI_AO Member=IC9
+Removed Member From Class: ClassName=DI_DO_AI_AO Member=R30
+Removed Member From Class: ClassName=DI_DO_AI_AO Member=R32
+Removed Member From Class: ClassName=DI_DO_AI_AO Member=R33
+Change Component Footprint: Designator=C13 Old Footprint=CN-SMD-0805 New Footprint=tu 0805
+Change Component Footprint: Designator=IC7 Old Footprint=SOIC127P1150X361-6N New Footprint=SOIC127P600X175-16N
+Change Component Comment : Designator=C13 Old Comment=1uF New Comment=225
+Change Component Comment : Designator=IC7 Old Comment=ACPL-W611-560E New Comment=Si8660BA-B-IS1
+Change component parameters: Designator = "IC7"; Footprint = "SOIC127P600X175-16N"; UniqueID = "\PDKDPVBK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "Si8660BA-B-IS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/si8660ba-b-is1/silicon-labs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.silabs.com/documents/public/data-sheets/Si866x.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "Si8660BA-B-IS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "634-SI8660BA-B-IS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Silicon-Labs/SI8660BA-B-IS1?qs=j6MGy4L9yX2XGnehVpuudQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13"; Footprint = "tu 0805"; UniqueID = "\UGOLOGTM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007483"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 225-2.2uF 25V 10%"; VariantName = "[No Variations]"
+Added Component: Designator=C42(tu 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007483"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 225-2.2uF 25V 10%"; VariantName = "[No Variations]"
+Added Component: Designator=PS(CONV_B0505S-1WR2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MORNSUN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B0505S-1WR2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B0505S-1WR2/MORNSUN/view-part/586695/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_P Pin=C13-2
+Added Pin To Net: NetName=+5Vdc Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=PULSE_CMD Pin=IC7-3
+Added Pin To Net: NetName=S_LOCK Pin=IC7-4
+Added Pin To Net: NetName=EX_DIR Pin=IC7-5
+Added Pin To Net: NetName=GND_P Pin=IC7-8
+Added Pin To Net: NetName=GND Pin=IC7-9
+Added Pin To Net: NetName=DIRECTION Pin=IC7-12
+Added Pin To Net: NetName=SERVO_LOCK Pin=IC7-13
+Added Pin To Net: NetName=LPTIM1_T_PULSE_Cmd Pin=IC7-14
+Added Pin To Net: NetName=+3.3Vdc Pin=IC7-16
+Added Pin To Net: NetName=GND_P Pin=IC22-8
+Added Pin To Net: NetName=GND Pin=IC22-9
+Added Pin To Net: NetName=+3.3Vdc Pin=IC22-16
+Added Pin To Net: NetName=S_LOCK Pin=JP1-5
+Added Pin To Net: NetName=EX_DIR Pin=JP1-6
+Added Pin To Net: NetName=PULSE_CMD Pin=JP1-7
+Added Pin To Net: NetName=RS485_A2 Pin=JP1-12
+Added Pin To Net: NetName=RS485_B2 Pin=JP1-13
+Added Pin To Net: NetName=GND_P Pin=JP1-31
+Added Pin To Net: NetName=GND Pin=PS-1
+Added Pin To Net: NetName=+5Vdc Pin=PS-2
+Added Pin To Net: NetName=GND_P Pin=PS-3
+Change Net Name : Old Net Name=GND_P New Net Name=GND_ExSignal
+Added Pin To Net: NetName=+V_ExSignal Pin=C13-1
+Added Pin To Net: NetName=+V_ExSignal Pin=IC7-1
+Added Pin To Net: NetName=+V_ExSignal Pin=IC22-1
+Added Pin To Net: NetName=+V_ExSignal Pin=PS-4
+Added Net: Name=+V_ExSignal
+Added Pin To Net: NetName=DI_0 Pin=IC22-6
+Added Pin To Net: NetName=DI_0 Pin=JP1-8
+Added Net: Name=DI_0
+Added Pin To Net: NetName=DI_1 Pin=IC22-5
+Added Pin To Net: NetName=DI_1 Pin=JP1-9
+Added Net: Name=DI_1
+Added Pin To Net: NetName=DI_2 Pin=IC22-4
+Added Pin To Net: NetName=DI_2 Pin=JP1-10
+Added Net: Name=DI_2
+Added Pin To Net: NetName=DI_3 Pin=IC22-3
+Added Pin To Net: NetName=DI_3 Pin=JP1-11
+Added Net: Name=DI_3
+Added Pin To Net: NetName=PB12_DI_3 Pin=IC12-33
+Added Pin To Net: NetName=PB12_DI_3 Pin=IC22-14
+Added Net: Name=PB12_DI_3
+Added Pin To Net: NetName=PC6_DI_2 Pin=IC12-37
+Added Pin To Net: NetName=PC6_DI_2 Pin=IC22-13
+Added Net: Name=PC6_DI_2
+Added Pin To Net: NetName=PC7_DI_1 Pin=IC12-38
+Added Pin To Net: NetName=PC7_DI_1 Pin=IC22-12
+Added Net: Name=PC7_DI_1
+Added Pin To Net: NetName=PC8_DI_0 Pin=IC12-39
+Added Pin To Net: NetName=PC8_DI_0 Pin=IC22-11
+Added Net: Name=PC8_DI_0
+Added Member To Class: ClassName=DI_DO_AI_AO Member=Component C42 225
+Added Member To Class: ClassName=DI_DO_AI_AO Member=Component PS B0505S-1WR2

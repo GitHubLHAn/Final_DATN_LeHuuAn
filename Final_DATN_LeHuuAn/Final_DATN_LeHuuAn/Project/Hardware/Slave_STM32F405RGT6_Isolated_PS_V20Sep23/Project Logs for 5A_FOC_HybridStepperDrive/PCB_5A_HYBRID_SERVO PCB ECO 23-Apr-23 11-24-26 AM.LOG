@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=S_LOCK Pin=JP1-5
+Removed Pin From Net: NetName=EX_DIR Pin=JP1-6
+Added Pin To Net: NetName=EX_DIR Pin=JP1-5
+Added Pin To Net: NetName=S_LOCK Pin=JP1-6

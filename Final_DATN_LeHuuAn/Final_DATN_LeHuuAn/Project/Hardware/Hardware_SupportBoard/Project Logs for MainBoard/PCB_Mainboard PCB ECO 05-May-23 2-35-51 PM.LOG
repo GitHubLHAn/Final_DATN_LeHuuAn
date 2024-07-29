@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+VB_IN Pin=KF1-1
+Removed Pin From Net: NetName=GND_iso Pin=KF1-2
+Added Pin To Net: NetName=GND_iso Pin=KF1-1
+Added Pin To Net: NetName=+VB_IN Pin=KF1-2
+Added Room: Name=Terminal

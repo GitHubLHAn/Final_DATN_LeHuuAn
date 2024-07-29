@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+5Vdc Pin=C27-1
+Removed Pin From Net: NetName=QEA_Vcc Pin=C27-2
+Removed Pin From Net: NetName=+3.3Vdc Pin=C27-3
+Removed Member From Class: ClassName=QEA_Interface Member=C27
+Added Component: Designator=JP4(JP 1x3 DT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5Vdc Pin=JP4-1
+Added Pin To Net: NetName=QEA_Vcc Pin=JP4-2
+Added Pin To Net: NetName=+3.3Vdc Pin=JP4-3
+Added Member To Class: ClassName=QEA_Interface Member=Component JP4 JP 1x3 2.54

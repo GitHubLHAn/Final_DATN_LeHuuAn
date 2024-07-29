@@ -1,0 +1,3 @@
+Change component parameters: Designator = "C10"; Footprint = "CM-0805 capacitor"; UniqueID = "\EEFVFCJT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"

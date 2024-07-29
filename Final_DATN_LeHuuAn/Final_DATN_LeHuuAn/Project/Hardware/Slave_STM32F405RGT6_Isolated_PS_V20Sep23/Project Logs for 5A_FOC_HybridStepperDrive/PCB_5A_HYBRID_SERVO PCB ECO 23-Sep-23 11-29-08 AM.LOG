@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=+5Vdc Pin=C18-1
+Removed Pin From Net: NetName=0Vdc Pin=PS2-2
+Removed Pin From Net: NetName=+5Vdc Pin=PS2-3
+Removed Pin From Net: NetName=GND Pin=PS2-4
+Removed Member From Class: ClassName=Power_Supply Member=PS2
+Change Component Footprint: Designator=C18 Old Footprint=Cap size C New Footprint=Cap 3KV 5mm
+Change Component Comment : Designator=C18 Old Comment=330uF/25V New Comment=1nF/2kV
+Change component parameters: Designator = "C18"; Footprint = "Cap 3KV 5mm"; UniqueID = "\JATUEPRM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF/2kV"; VariantName = "[No Variations]"
+Added Component: Designator=1(URB2405_6WR2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C46(Cap 3KV 5mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF/2kV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=0Vdc Pin=1-1
+Added Pin To Net: NetName=+5Vdc Pin=1-3
+Added Pin To Net: NetName=GND Pin=1-5
+Added Pin To Net: NetName=0Vdc Pin=C18-1
+Added Pin To Net: NetName=+5Vdc Pin=C46-2
+Added Pin To Net: NetName=Net1_2 Pin=1-2
+Added Pin To Net: NetName=Net1_2 Pin=C19-1
+Added Pin To Net: NetName=Net1_2 Pin=C46-1
+Added Pin To Net: NetName=Net1_2 Pin=D1-2
+Added Net: Name=Net1_2
+Added Member To Class: ClassName=Power_Supply Member=Component 1 URB2405-6WR2
+Added Member To Class: ClassName=Power_Supply Member=Component C46 1nF/2kV

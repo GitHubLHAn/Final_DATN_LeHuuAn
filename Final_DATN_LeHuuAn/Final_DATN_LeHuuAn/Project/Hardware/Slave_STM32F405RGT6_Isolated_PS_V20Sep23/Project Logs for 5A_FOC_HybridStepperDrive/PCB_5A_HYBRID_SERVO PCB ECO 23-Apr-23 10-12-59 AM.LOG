@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=+5Vdc Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C42-2
+Removed Pin From Net: NetName=PULSE_CMD Pin=IC7-3
+Removed Pin From Net: NetName=S_LOCK Pin=IC7-4
+Removed Pin From Net: NetName=EX_DIR Pin=IC7-5
+Removed Pin From Net: NetName=GND Pin=IC7-9
+Removed Pin From Net: NetName=DIRECTION Pin=IC7-12
+Removed Pin From Net: NetName=SERVO_LOCK Pin=IC7-13
+Removed Pin From Net: NetName=LPTIM1_T_PULSE_Cmd Pin=IC7-14
+Removed Pin From Net: NetName=+3.3Vdc Pin=IC7-16
+Removed Pin From Net: NetName=DI_3 Pin=IC22-3
+Removed Pin From Net: NetName=DI_2 Pin=IC22-4
+Removed Pin From Net: NetName=DI_1 Pin=IC22-5
+Removed Pin From Net: NetName=DI_0 Pin=IC22-6
+Removed Pin From Net: NetName=GND Pin=IC22-9
+Removed Pin From Net: NetName=PC8_DI_0 Pin=IC22-11
+Removed Pin From Net: NetName=PC7_DI_1 Pin=IC22-12
+Removed Pin From Net: NetName=PC6_DI_2 Pin=IC22-13
+Removed Pin From Net: NetName=PB12_DI_3 Pin=IC22-14
+Removed Pin From Net: NetName=+3.3Vdc Pin=IC22-16
+Removed Pin From Net: NetName=GND Pin=JP1-21
+Removed Pin From Net: NetName=GND Pin=PS-1
+Removed Pin From Net: NetName=+5Vdc Pin=PS-2
+Removed Member From Class: ClassName=DI_DO_AI_AO Member=C13
+Removed Member From Class: ClassName=DI_DO_AI_AO Member=C42
+Removed Member From Class: ClassName=DI_DO_AI_AO Member=IC22
+Removed Member From Class: ClassName=DI_DO_AI_AO Member=PS
+Change Component Comment : Designator=IC7 Old Comment=Si8660BA-B-IS1 New Comment=SN74HC245NSR
+Change component parameters: Designator = "IC7"; Footprint = "SOIC127P780X200-20N"; UniqueID = "\RPOLODOV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SN74HC245NSR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sn74hc245nsr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/SN74HC245"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74HC245NSR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74HC245NSR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74HC245NSR?qs=YhsVCygOPE264XdBhel1Tg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3Vdc Pin=IC7-1
+Added Pin To Net: NetName=PULSE_CMD Pin=IC7-2
+Added Pin To Net: NetName=S_LOCK Pin=IC7-3
+Added Pin To Net: NetName=EX_DIR Pin=IC7-4
+Added Pin To Net: NetName=DI_3 Pin=IC7-5
+Added Pin To Net: NetName=DI_2 Pin=IC7-6
+Added Pin To Net: NetName=DI_1 Pin=IC7-7
+Added Pin To Net: NetName=DI_0 Pin=IC7-8
+Added Pin To Net: NetName=GND Pin=IC7-10
+Added Pin To Net: NetName=PC8_DI_0 Pin=IC7-12
+Added Pin To Net: NetName=PC7_DI_1 Pin=IC7-13
+Added Pin To Net: NetName=PC6_DI_2 Pin=IC7-14
+Added Pin To Net: NetName=PB12_DI_3 Pin=IC7-15
+Added Pin To Net: NetName=DIRECTION Pin=IC7-16
+Added Pin To Net: NetName=GND_iso Pin=JP1-21
+Added Pin To Net: NetName=GND Pin=JP1-31
+Added Pin To Net: NetName=GND Pin=JP1-32
+Added Pin To Net: NetName=GND Pin=JP1-33
+Added Pin To Net: NetName=GND Pin=JP1-34
+Added Pin To Net: NetName=GND Pin=JP1-35
+Added Pin To Net: NetName=GND Pin=JP1-36

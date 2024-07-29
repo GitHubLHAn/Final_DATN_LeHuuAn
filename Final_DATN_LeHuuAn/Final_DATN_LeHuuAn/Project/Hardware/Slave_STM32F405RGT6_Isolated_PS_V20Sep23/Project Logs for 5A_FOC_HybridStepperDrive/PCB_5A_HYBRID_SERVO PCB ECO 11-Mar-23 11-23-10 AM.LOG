@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=MA1 Pin=H4-1
+Removed Pin From Net: NetName=MB1 Pin=H4-2
+Removed Pin From Net: NetName=MA2 Pin=H4-3
+Removed Pin From Net: NetName=MB2 Pin=H4-4
+Removed Member From Class: ClassName=Terminal Member=H4
+Added Component: Designator=H?(VH3.96M-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MB2 Pin=H?-1
+Added Pin To Net: NetName=MA2 Pin=H?-2
+Added Pin To Net: NetName=MB1 Pin=H?-3
+Added Pin To Net: NetName=MA1 Pin=H?-4
+Added Member To Class: ClassName=Terminal Member=Component H? MOTOR

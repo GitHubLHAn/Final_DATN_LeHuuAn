@@ -1,0 +1,22 @@
+Added Component: Designator=R25(tro smd 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005471"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 1% 2k"; VariantName = "[No Variations]"
+Added Component: Designator=R26(tro smd 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005471"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 1% 2k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED1_1 Pin=R25-1
+Added Pin To Net: NetName=+3.3Vdc Pin=R25-2
+Added Pin To Net: NetName=NetLED2_1 Pin=R26-1
+Added Pin To Net: NetName=+3.3Vdc Pin=R26-2
+Added Member To Class: ClassName=DI_DO_AI_AO Member=Component R25 820R
+Added Member To Class: ClassName=DI_DO_AI_AO Member=Component R26 820R

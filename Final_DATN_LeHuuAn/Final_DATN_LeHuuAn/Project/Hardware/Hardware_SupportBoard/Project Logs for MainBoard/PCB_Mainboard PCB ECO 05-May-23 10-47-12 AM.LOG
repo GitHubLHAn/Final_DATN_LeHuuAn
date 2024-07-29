@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=+VCC Pin=JP?-1
+Removed Pin From Net: NetName=+VCC Pin=JP?-2
+Removed Pin From Net: NetName=GND_iso Pin=JP?-3
+Removed Pin From Net: NetName=GND_iso Pin=JP?-4
+Removed Pin From Net: NetName=GND Pin=JP?-6
+Removed Pin From Net: NetName=GND Pin=JP?-7
+Removed Pin From Net: NetName=GND Pin=JP?-8
+Removed Pin From Net: NetName=GND Pin=JP?-9
+Removed Pin From Net: NetName=GND Pin=JP?-10
+Removed Pin From Net: NetName=GND Pin=JP?-11
+Removed Pin From Net: NetName=GND Pin=JP?-12
+Removed Pin From Net: NetName=GND Pin=JP?-13
+Removed Pin From Net: NetName=GND Pin=JP?-14
+Removed Pin From Net: NetName=GND Pin=JP?-15
+Removed Pin From Net: NetName=GND Pin=JP?-16
+Removed Pin From Net: NetName=GND Pin=JP?-17
+Removed Pin From Net: NetName=GND Pin=JP?-18
+Removed Pin From Net: NetName=GND Pin=JP?-19
+Removed Pin From Net: NetName=GND Pin=JP?-20
+Removed Pin From Net: NetName=GND Pin=JP?-21
+Removed Pin From Net: NetName=M_SDA_ISO Pin=JP?-22
+Removed Pin From Net: NetName=M_SCL_ISO Pin=JP?-23
+Removed Pin From Net: NetName=AI_2 Pin=JP?-24
+Removed Pin From Net: NetName=AI_1 Pin=JP?-25
+Removed Pin From Net: NetName=AI_4 Pin=JP?-26
+Removed Pin From Net: NetName=AI_3 Pin=JP?-27
+Removed Pin From Net: NetName=RS485_B2 Pin=JP?-28
+Removed Pin From Net: NetName=RS485_A2 Pin=JP?-29
+Removed Pin From Net: NetName=DI_3 Pin=JP?-30
+Removed Pin From Net: NetName=DI_2 Pin=JP?-31
+Removed Pin From Net: NetName=DI_1 Pin=JP?-32
+Removed Pin From Net: NetName=DI_0 Pin=JP?-33
+Removed Pin From Net: NetName=PULSE_CMD Pin=JP?-34
+Removed Pin From Net: NetName=S_LOCK Pin=JP?-35
+Removed Pin From Net: NetName=EX_DIR Pin=JP?-36
+Removed Pin From Net: NetName=GND_iso Pin=JP?-37
+Removed Pin From Net: NetName=GND_iso Pin=JP?-38
+Removed Pin From Net: NetName=+VCC Pin=JP?-39
+Removed Pin From Net: NetName=+VCC Pin=JP?-40
+Removed Member From Class: ClassName=Terminal Member=JP?
+Added Component: Designator=JP1(JP 2x20 CT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VCC Pin=JP1-1
+Added Pin To Net: NetName=+VCC Pin=JP1-2
+Added Pin To Net: NetName=GND_iso Pin=JP1-3
+Added Pin To Net: NetName=GND_iso Pin=JP1-4
+Added Pin To Net: NetName=EX_DIR Pin=JP1-5
+Added Pin To Net: NetName=S_LOCK Pin=JP1-6
+Added Pin To Net: NetName=PULSE_CMD Pin=JP1-7
+Added Pin To Net: NetName=DI_0 Pin=JP1-8
+Added Pin To Net: NetName=DI_1 Pin=JP1-9
+Added Pin To Net: NetName=DI_2 Pin=JP1-10
+Added Pin To Net: NetName=DI_3 Pin=JP1-11
+Added Pin To Net: NetName=RS485_A2 Pin=JP1-12
+Added Pin To Net: NetName=RS485_B2 Pin=JP1-13
+Added Pin To Net: NetName=AI_3 Pin=JP1-14
+Added Pin To Net: NetName=AI_4 Pin=JP1-15
+Added Pin To Net: NetName=AI_1 Pin=JP1-16
+Added Pin To Net: NetName=AI_2 Pin=JP1-17
+Added Pin To Net: NetName=M_SCL_ISO Pin=JP1-18
+Added Pin To Net: NetName=M_SDA_ISO Pin=JP1-19
+Added Pin To Net: NetName=GND Pin=JP1-20
+Added Pin To Net: NetName=GND Pin=JP1-21
+Added Pin To Net: NetName=GND Pin=JP1-22
+Added Pin To Net: NetName=GND Pin=JP1-23
+Added Pin To Net: NetName=GND Pin=JP1-24
+Added Pin To Net: NetName=GND Pin=JP1-25
+Added Pin To Net: NetName=GND Pin=JP1-26
+Added Pin To Net: NetName=GND Pin=JP1-27
+Added Pin To Net: NetName=GND Pin=JP1-28
+Added Pin To Net: NetName=GND Pin=JP1-29
+Added Pin To Net: NetName=GND Pin=JP1-30
+Added Pin To Net: NetName=GND Pin=JP1-31
+Added Pin To Net: NetName=GND Pin=JP1-32
+Added Pin To Net: NetName=GND Pin=JP1-33
+Added Pin To Net: NetName=GND Pin=JP1-34
+Added Pin To Net: NetName=GND Pin=JP1-35
+Added Pin To Net: NetName=GND_iso Pin=JP1-37
+Added Pin To Net: NetName=GND_iso Pin=JP1-38
+Added Pin To Net: NetName=+VCC Pin=JP1-39
+Added Pin To Net: NetName=+VCC Pin=JP1-40
+Added Member To Class: ClassName=Terminal Member=Component JP1 JP 2x20 2.54

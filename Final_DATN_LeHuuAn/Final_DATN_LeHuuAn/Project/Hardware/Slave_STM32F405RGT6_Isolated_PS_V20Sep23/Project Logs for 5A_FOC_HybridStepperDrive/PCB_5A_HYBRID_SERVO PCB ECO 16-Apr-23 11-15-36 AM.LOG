@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+5V_Analog Pin=IC13-1
+Removed Pin From Net: NetName=GND Pin=IC13-3
+Removed Pin From Net: NetName=GND Pin=IC13-4
+Removed Pin From Net: NetName=GND_iso Pin=IC13-5
+Removed Pin From Net: NetName=GND_iso Pin=IC13-6
+Removed Pin From Net: NetName=+V_iso Pin=IC13-8
+Added Component: Designator=C29(CM-0805 capacitor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_Analog Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=+V_iso Pin=IC13-1
+Added Pin To Net: NetName=GND_iso Pin=IC13-3
+Added Pin To Net: NetName=GND_iso Pin=IC13-4
+Added Pin To Net: NetName=GND Pin=IC13-5
+Added Pin To Net: NetName=GND Pin=IC13-6
+Added Pin To Net: NetName=+5V_Analog Pin=IC13-8
+Added Member To Class: ClassName=MC33886_PowerModule Member=Component C29 1uF

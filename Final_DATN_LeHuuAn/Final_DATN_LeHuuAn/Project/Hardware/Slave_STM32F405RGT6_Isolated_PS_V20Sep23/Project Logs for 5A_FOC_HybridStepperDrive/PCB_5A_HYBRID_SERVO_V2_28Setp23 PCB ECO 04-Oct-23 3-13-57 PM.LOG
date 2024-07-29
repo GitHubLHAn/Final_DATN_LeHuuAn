@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+5Vdc Pin=P4-1
+Removed Pin From Net: NetName=QEA_Vcc Pin=P4-2
+Removed Pin From Net: NetName=+3.3Vdc Pin=P4-3
+Removed Member From Class: ClassName=QEA_Interface Member=P4
+Added Component: Designator=C27(HDR3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5Vdc Pin=C27-1
+Added Pin To Net: NetName=QEA_Vcc Pin=C27-2
+Added Pin To Net: NetName=+3.3Vdc Pin=C27-3
+Added Member To Class: ClassName=QEA_Interface Member=Component C27 Header3

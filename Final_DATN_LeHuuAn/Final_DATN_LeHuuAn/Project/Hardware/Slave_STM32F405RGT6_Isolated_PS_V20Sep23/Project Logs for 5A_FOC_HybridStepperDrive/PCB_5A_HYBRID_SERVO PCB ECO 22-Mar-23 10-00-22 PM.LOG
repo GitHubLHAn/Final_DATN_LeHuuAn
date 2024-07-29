@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=JP2-1
+Removed Pin From Net: NetName=GND Pin=JP2-2
+Removed Pin From Net: NetName=GND Pin=JP2-11
+Removed Pin From Net: NetName=GND Pin=JP2-12
+Change Component Footprint: Designator=H1 Old Footprint=Header 3P DC 2.54 New Footprint=Header 4P DC 2.54
+Change Component Footprint: Designator=H2 Old Footprint=Header 3P DC 2.54 New Footprint=Header 4P DC 2.54
+Change Component Footprint: Designator=H6 Old Footprint=Header 3P DC 2.54 New Footprint=Header 4P DC 2.54
+Change Component Footprint: Designator=H8 Old Footprint=Header 3P DC 2.54 New Footprint=Header 4P DC 2.54
+Change component parameters: Designator = "H1"; Footprint = "Header 4P DC 2.54"; UniqueID = "\DDAINLKB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Cong"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H2"; Footprint = "Header 4P DC 2.54"; UniqueID = "\RSIFWWTS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Cong"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H6"; Footprint = "Header 4P DC 2.54"; UniqueID = "\GYFBKPPK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Cong"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H8"; Footprint = "Header 4P DC 2.54"; UniqueID = "\JFDAMGKR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Cong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Pin To Net: NetName=GND Pin=H2-4
+Added Pin To Net: NetName=GND Pin=H6-4
+Added Pin To Net: NetName=GND Pin=H8-4
+Added Pin To Net: NetName=GND_iso Pin=JP2-1
+Added Pin To Net: NetName=GND_iso Pin=JP2-2
+Added Pin To Net: NetName=GND_iso Pin=JP2-11
+Added Pin To Net: NetName=GND_iso Pin=JP2-12

@@ -1,0 +1,41 @@
+Added Component: Designator=IC?(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/XLSEMI-XL1509-3-3E1_C74193.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "XLSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XL1509-3.3E1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-0805-Blue)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002327"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED 0805 Màu Xanh Duong (Blue)"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED-0805-Red)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED 0805 Màu Ð? (Red)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC28_1 Pin=IC?-1
+Added Pin To Net: NetName=NetD5_2 Pin=IC?-2
+Added Pin To Net: NetName=+5Vdc Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-5
+Added Pin To Net: NetName=GND Pin=IC?-6
+Added Pin To Net: NetName=GND Pin=IC?-7
+Added Pin To Net: NetName=GND Pin=IC?-8
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=LED1 Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=LED2 Pin=LED2-2
+Added Member To Class: ClassName=Power_Supply Member=Component IC? XL1509-3.3E1
+Added Member To Class: ClassName=DI_DO_AI_AO Member=Component LED1 LED 0805
+Added Member To Class: ClassName=DI_DO_AI_AO Member=Component LED2 LED 0805

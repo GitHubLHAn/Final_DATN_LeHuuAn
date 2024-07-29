@@ -1,0 +1,173 @@
+Removed Pin From Net: NetName=PWM_TIM1_CH1H Pin=IC10-3
+Removed Pin From Net: NetName=+VM Pin=IC10-4
+Removed Pin From Net: NetName=+VM Pin=IC10-5
+Removed Pin From Net: NetName=OUT1_1 Pin=IC10-6
+Removed Pin From Net: NetName=OUT1_1 Pin=IC10-7
+Removed Pin From Net: NetName=GND Pin=IC10-9
+Removed Pin From Net: NetName=GND Pin=IC10-10
+Removed Pin From Net: NetName=GND Pin=IC10-11
+Removed Pin From Net: NetName=GND Pin=IC10-12
+Removed Pin From Net: NetName=MB1 Pin=IC10-14
+Removed Pin From Net: NetName=MB1 Pin=IC10-15
+Removed Pin From Net: NetName=+VM Pin=IC10-16
+Removed Pin From Net: NetName=PWM_TIM1_CH1N Pin=IC10-19
+Removed Pin From Net: NetName=PWM_TIM1_CH2H Pin=IC11-3
+Removed Pin From Net: NetName=+VM Pin=IC11-4
+Removed Pin From Net: NetName=+VM Pin=IC11-5
+Removed Pin From Net: NetName=OUT2_1 Pin=IC11-6
+Removed Pin From Net: NetName=OUT2_1 Pin=IC11-7
+Removed Pin From Net: NetName=GND Pin=IC11-9
+Removed Pin From Net: NetName=GND Pin=IC11-10
+Removed Pin From Net: NetName=GND Pin=IC11-11
+Removed Pin From Net: NetName=GND Pin=IC11-12
+Removed Pin From Net: NetName=MB2 Pin=IC11-14
+Removed Pin From Net: NetName=MB2 Pin=IC11-15
+Removed Pin From Net: NetName=+VM Pin=IC11-16
+Removed Pin From Net: NetName=PWM_TIM1_CH2N Pin=IC11-19
+Removed Pin From Net: NetName=MB1 Pin=IC17-4
+Removed Pin From Net: NetName=MB1 Pin=IC17-8
+Change Component Footprint: Designator=IC10 Old Footprint=SOIC127P1420X340-21N New Footprint=BTS7960B
+Change Component Footprint: Designator=IC11 Old Footprint=SOIC127P1420X340-21N New Footprint=BTS7960B
+Change Component Comment : Designator=IC10 Old Comment=MC33886PVW New Comment=BTS7960B
+Change Component Comment : Designator=IC11 Old Comment=MC33886PVW New Comment=BTS7960B
+Change component parameters: Designator = "IC10"; Footprint = "BTS7960B"; UniqueID = "\BFQCJXHT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BTS7960B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC11"; Footprint = "BTS7960B"; UniqueID = "\JKMPRPWV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BTS7960B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36(tu nhom 8 (e))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Nhôm 33uF 35V"; VariantName = "[No Variations]"
+Added Component: Designator=C37(CM-0805 capacitor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C39(tu nhom 8 (e))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Nhôm 33uF 35V"; VariantName = "[No Variations]"
+Added Component: Designator=C40(CM-0805 capacitor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=IC18(BTS7960B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BTS7960B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R49(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VM Pin=C16-2
+Added Pin To Net: NetName=+VM Pin=C17-2
+Added Pin To Net: NetName=+VM Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=+VM Pin=C37-2
+Added Pin To Net: NetName=+VM Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=+VM Pin=C40-2
+Added Pin To Net: NetName=PWM_TIM1_CH2H Pin=IC10-2
+Added Pin To Net: NetName=OUT2_1 Pin=IC10-4
+Added Pin To Net: NetName=GND Pin=IC10-5
+Added Pin To Net: NetName=+VM Pin=IC10-7
+Added Pin To Net: NetName=OUT2_1 Pin=IC10-8
+Added Pin To Net: NetName=PWM_TIM1_CH1N Pin=IC11-2
+Added Pin To Net: NetName=MB1 Pin=IC11-4
+Added Pin To Net: NetName=GND Pin=IC11-5
+Added Pin To Net: NetName=+VM Pin=IC11-7
+Added Pin To Net: NetName=MB1 Pin=IC11-8
+Added Pin To Net: NetName=OUT1_1 Pin=IC17-4
+Added Pin To Net: NetName=OUT1_1 Pin=IC17-8
+Added Pin To Net: NetName=GND Pin=IC18-1
+Added Pin To Net: NetName=PWM_TIM1_CH2N Pin=IC18-2
+Added Pin To Net: NetName=MB2 Pin=IC18-4
+Added Pin To Net: NetName=GND Pin=IC18-5
+Added Pin To Net: NetName=+VM Pin=IC18-7
+Added Pin To Net: NetName=MB2 Pin=IC18-8
+Added Pin To Net: NetName=GND Pin=R49-2
+Added Pin To Net: NetName=GND Pin=R50-2
+Added Pin To Net: NetName=GND Pin=R51-2
+Added Pin To Net: NetName=EXTI10_HOME Pin=IC12-43
+Added Pin To Net: NetName=EXTI10_HOME Pin=U3-12
+Added Net: Name=EXTI10_HOME
+Added Pin To Net: NetName=EXTI11_RSW Pin=IC12-44
+Added Pin To Net: NetName=EXTI11_RSW Pin=U3-14
+Added Net: Name=EXTI11_RSW
+Added Pin To Net: NetName=EXTI12_LSW Pin=IC12-45
+Added Pin To Net: NetName=EXTI12_LSW Pin=U3-16
+Added Net: Name=EXTI12_LSW
+Added Pin To Net: NetName=INH_1 Pin=IC11-3
+Added Pin To Net: NetName=INH_1 Pin=IC12-40
+Added Pin To Net: NetName=INH_1 Pin=IC17-3
+Added Net: Name=INH_1
+Added Pin To Net: NetName=INH_2 Pin=IC10-3
+Added Pin To Net: NetName=INH_2 Pin=IC12-36
+Added Pin To Net: NetName=INH_2 Pin=IC18-3
+Added Net: Name=INH_2
+Added Pin To Net: NetName=NetIC10_6 Pin=IC10-6
+Added Pin To Net: NetName=NetIC10_6 Pin=R49-1
+Added Net: Name=NetIC10_6
+Added Pin To Net: NetName=NetIC11_6 Pin=IC11-6
+Added Pin To Net: NetName=NetIC11_6 Pin=R50-1
+Added Net: Name=NetIC11_6
+Added Pin To Net: NetName=NetIC18_6 Pin=IC18-6
+Added Pin To Net: NetName=NetIC18_6 Pin=R51-1
+Added Net: Name=NetIC18_6
+Added Member To Class: ClassName=MC33886_PowerModule Member=Component C36 33uF/35V
+Added Member To Class: ClassName=MC33886_PowerModule Member=Component C37 33nF
+Added Member To Class: ClassName=MC33886_PowerModule Member=Component C39 33uF/35V
+Added Member To Class: ClassName=MC33886_PowerModule Member=Component C40 33nF
+Added Member To Class: ClassName=MC33886_PowerModule Member=Component IC18 BTS7960B
+Added Member To Class: ClassName=MC33886_PowerModule Member=Component R49 1k
+Added Member To Class: ClassName=MC33886_PowerModule Member=Component R50 1k
+Added Member To Class: ClassName=MC33886_PowerModule Member=Component R51 1k

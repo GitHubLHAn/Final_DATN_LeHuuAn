@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=H5-4
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=NetQ1_1 Pin=R31-1
+Change Component Comment : Designator=R31 Old Comment=270R New Comment=820R
+Added Component: Designator=R53(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_1 Pin=R53-1
+Added Pin To Net: NetName=GND_BRK Pin=H5-4
+Added Pin To Net: NetName=GND_BRK Pin=Q1-3
+Added Net: Name=GND_BRK
+Added Pin To Net: NetName=NetIC20_1 Pin=R31-1
+Added Net: Name=NetIC20_1
+Added Pin To Net: NetName=NetIC20_3 Pin=R53-2
+Added Net: Name=NetIC20_3
+Added Member To Class: ClassName=DI_DO_AI_AO Member=Component R53 270R

@@ -1,0 +1,23 @@
+Added Component: Designator=JP?(JP 2x6 CT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VS Pin=JP?-2
+Added Pin To Net: NetName=GND_iso Pin=JP?-5
+Added Pin To Net: NetName=GND_iso Pin=JP?-7
+Added Pin To Net: NetName=GND_iso Pin=JP?-8
+Added Pin To Net: NetName=GND_iso Pin=JP?-9
+Added Pin To Net: NetName=+VS Pin=JP?-10
+Added Pin To Net: NetName=+VS Pin=JP?-11
+Added Pin To Net: NetName=+VS Pin=JP?-12
+Added Pin To Net: NetName=NetJP?_1 Pin=JP?-1
+Added Pin To Net: NetName=NetJP?_1 Pin=JP?-3
+Added Net: Name=NetJP?_1
+Added Pin To Net: NetName=NetJP?_4 Pin=JP?-4
+Added Pin To Net: NetName=NetJP?_4 Pin=JP?-6
+Added Net: Name=NetJP?_4
+Added Member To Class: ClassName=Terminal Member=Component JP? JP 2x6 2.54

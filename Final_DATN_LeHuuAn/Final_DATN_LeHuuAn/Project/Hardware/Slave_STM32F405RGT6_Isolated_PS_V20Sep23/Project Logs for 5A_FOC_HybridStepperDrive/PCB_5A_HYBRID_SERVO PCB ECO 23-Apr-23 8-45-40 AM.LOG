@@ -1,0 +1,11 @@
+Added Component: Designator=IC22(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "Si8660BA-B-IS1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/si8660ba-b-is1/silicon-labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.silabs.com/documents/public/data-sheets/Si866x.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "Si8660BA-B-IS1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "634-SI8660BA-B-IS1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Silicon-Labs/SI8660BA-B-IS1?qs=j6MGy4L9yX2XGnehVpuudQ%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=DI_DO_AI_AO Member=Component IC22 Si8660BA-B-IS1

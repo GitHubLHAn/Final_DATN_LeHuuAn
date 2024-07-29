@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=OUT1_1 Pin=IC5-1
+Removed Pin From Net: NetName=OUT1_1 Pin=IC5-2
+Removed Pin From Net: NetName=MA1 Pin=IC5-3
+Removed Pin From Net: NetName=MA1 Pin=IC5-4
+Removed Pin From Net: NetName=OUT2_1 Pin=IC6-1
+Removed Pin From Net: NetName=OUT2_1 Pin=IC6-2
+Removed Pin From Net: NetName=MA2 Pin=IC6-3
+Removed Pin From Net: NetName=MA2 Pin=IC6-4
+Added Pin To Net: NetName=MA1 Pin=IC5-1
+Added Pin To Net: NetName=MA1 Pin=IC5-2
+Added Pin To Net: NetName=OUT1_1 Pin=IC5-3
+Added Pin To Net: NetName=OUT1_1 Pin=IC5-4
+Added Pin To Net: NetName=MA2 Pin=IC6-1
+Added Pin To Net: NetName=MA2 Pin=IC6-2
+Added Pin To Net: NetName=OUT2_1 Pin=IC6-3
+Added Pin To Net: NetName=OUT2_1 Pin=IC6-4

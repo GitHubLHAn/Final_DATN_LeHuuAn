@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=PB12_DI_0 Pin=IC7-14
+Added Pin To Net: NetName=PB12_DI_0 Pin=IC12-33
+Added Net: Name=PB12_DI_0
+Added Pin To Net: NetName=PC6_DI_1 Pin=IC7-13
+Added Pin To Net: NetName=PC6_DI_1 Pin=IC12-37
+Added Net: Name=PC6_DI_1
+Added Pin To Net: NetName=PC7_DI_2 Pin=IC7-12
+Added Pin To Net: NetName=PC7_DI_2 Pin=IC12-38
+Added Net: Name=PC7_DI_2
+Added Pin To Net: NetName=PC8_DI_3 Pin=IC7-11
+Added Pin To Net: NetName=PC8_DI_3 Pin=IC12-39
+Added Net: Name=PC8_DI_3

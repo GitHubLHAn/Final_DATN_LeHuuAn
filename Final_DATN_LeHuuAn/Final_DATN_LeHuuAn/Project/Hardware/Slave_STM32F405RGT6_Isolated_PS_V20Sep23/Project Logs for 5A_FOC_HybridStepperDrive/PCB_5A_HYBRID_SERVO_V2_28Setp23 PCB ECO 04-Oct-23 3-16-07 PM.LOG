@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+5Vdc Pin=P1-5
+Removed Member From Class: ClassName=Current_Sense Member=JP4
+Added Pin To Net: NetName=QEA_Vcc Pin=P1-5

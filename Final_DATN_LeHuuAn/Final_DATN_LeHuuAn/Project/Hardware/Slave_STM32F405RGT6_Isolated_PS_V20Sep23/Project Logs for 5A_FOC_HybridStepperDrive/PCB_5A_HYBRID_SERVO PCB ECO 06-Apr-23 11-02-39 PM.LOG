@@ -1,0 +1,14 @@
+Added Component: Designator=IC20(LTV-357T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTV-357T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltv-357t/lite-on-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/6912088"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTV-357T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTV-357T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Lite-On/LTV-357T?qs=IhlP1sn3qi5zhJzi4zUCwQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC20_1 Pin=IC20-1
+Added Pin To Net: NetName=GND Pin=IC20-2
+Added Pin To Net: NetName=NetIC20_3 Pin=IC20-3
+Added Pin To Net: NetName=BRAKE_COIL Pin=IC20-4
+Added Member To Class: ClassName=DI_DO_AI_AO Member=Component IC20 LTV-357T

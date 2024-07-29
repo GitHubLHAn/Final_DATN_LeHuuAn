@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=PULSE_CMD Pin=IC7-2
+Removed Pin From Net: NetName=S_LOCK Pin=IC7-3
+Removed Pin From Net: NetName=EX_DIR Pin=IC7-4
+Removed Pin From Net: NetName=DI_3 Pin=IC7-5
+Removed Pin From Net: NetName=DI_2 Pin=IC7-6
+Removed Pin From Net: NetName=DI_1 Pin=IC7-7
+Removed Pin From Net: NetName=DI_0 Pin=IC7-8
+Removed Pin From Net: NetName=PC8_DI_0 Pin=IC7-12
+Removed Pin From Net: NetName=PC7_DI_1 Pin=IC7-13
+Removed Pin From Net: NetName=PC6_DI_2 Pin=IC7-14
+Removed Pin From Net: NetName=PB12_DI_3 Pin=IC7-15
+Removed Pin From Net: NetName=DIRECTION Pin=IC7-16
+Removed Pin From Net: NetName=SERVO_LOCK Pin=IC7-17
+Removed Pin From Net: NetName=LPTIM1_T_PULSE_Cmd Pin=IC7-18
+Added Component: Designator=C13(tu 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004554"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 10P 10% 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3Vdc Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=DI_3 Pin=IC7-2
+Added Pin To Net: NetName=DI_2 Pin=IC7-3
+Added Pin To Net: NetName=DI_1 Pin=IC7-4
+Added Pin To Net: NetName=DI_0 Pin=IC7-5
+Added Pin To Net: NetName=PULSE_CMD Pin=IC7-6
+Added Pin To Net: NetName=S_LOCK Pin=IC7-7
+Added Pin To Net: NetName=EX_DIR Pin=IC7-8
+Added Pin To Net: NetName=DIRECTION Pin=IC7-12
+Added Pin To Net: NetName=SERVO_LOCK Pin=IC7-13
+Added Pin To Net: NetName=LPTIM1_T_PULSE_Cmd Pin=IC7-14
+Added Pin To Net: NetName=PC8_DI_0 Pin=IC7-15
+Added Pin To Net: NetName=PC7_DI_1 Pin=IC7-16
+Added Pin To Net: NetName=PC6_DI_2 Pin=IC7-17
+Added Pin To Net: NetName=PB12_DI_3 Pin=IC7-18
+Added Member To Class: ClassName=DI_DO_AI_AO Member=Component C13 1uF
